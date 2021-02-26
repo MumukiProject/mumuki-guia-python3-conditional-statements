@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: escribir_cartelito_optimo
+  inspection: HasBinding
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: escribir_cartelito_optimo
+  inspection: Uses:escribir_cartelito
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: escribir_cartelito_optimo
+  inspection: Not:UsesIf
