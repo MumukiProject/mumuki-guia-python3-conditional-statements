@@ -7,5 +7,5 @@ expectations:
   binding: "*"
   inspection: DeclaresComputationWithArity1:medalla_segun_puesto
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
+  binding: medalla_segun_puesto
   inspection: UsesIf
