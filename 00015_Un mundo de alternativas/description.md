@@ -23,5 +23,6 @@ def saludar_a(quien, horario):
     return "Buenas noches " + quien
 ```
 
+Como vemos, el `elif` nos permite tomar una decisión cuando la condición anterior no se cumplió, y tal como su nombre lo sugiere, funciona como la combinación de un `if` justo después de un `else`.    
 
 
