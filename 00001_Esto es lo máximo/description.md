@@ -1,5 +1,6 @@
+_Bueno, quizás no sea para taaaanto, pero sí, el `if` es muy útil_  :stuck_out_tongue_closed_eyes:
 
-
+Veamos otro ejemplo...
 
 ```python
 # Equivalente a abs
@@ -10,4 +11,12 @@ def valor_absoluto(numero):
     return -numero
 ```
 
-> Veamos si se entiende: escribí una función `maximo`, que funcione como `max` (¡no vale usarla!) y devuelva el máximo entre dos números. Por ejemplo, el máximo entre 4 y 5 es 5, y el máximo entre 10 y 4, es 10.
+...y pongamos nombre a cada parte de la alternativa condicional:  
+1. En primer lugar, tenemos la _condición_, que es lo que decide qué acción vamos a ejecutar. Podría ser cualquier _ expresión booleana_, o en criollo cualquier cosa que represente una "pregunta" que se pueda responder con sí (`True`) o no (`False`)
+2. Luego está _la acción_ del `if`, que retornará lo que queremos en caso de que la condición anterior sea **verdadera**. 
+3. Por último contamos con  _la acción_ del `else`, que retornará lo que queremos en caso de que la condición anterior sea **falsa**. 
+
+Además, a cada una de estas acciones también se las conoce como _ramas_ :deciduous_tree:, porque ramifican el flujo de ejecución.
+
+
+> ¡Escribamos nuestro primer `if`! Definí una función `maximo`, que funcione como `max` (¡no vale usarla!) y devuelva el máximo entre dos números. Por ejemplo, el máximo entre 4 y 5 es 5, y el máximo entre 10 y 4, es 10.
