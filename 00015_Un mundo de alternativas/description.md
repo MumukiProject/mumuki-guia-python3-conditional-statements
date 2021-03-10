@@ -11,7 +11,7 @@ Ahora que ya vimos varios `if`s, volvamos a la función con la que iniciamos la 
  2. **en caso contrario** y si son menos de las 19, que diga _Buenas tardes_;
  3. **en caso contrario**, finalmente, que diga _Buenas noches_.
  
-Sí, ¡eso es exactamente lo que queremos! Demos la bienvenida a un amigo inseperable del `if` y el `else`: el `elif`.
+Sí, ¡eso es exactamente lo que queremos! Demos la bienvenida a un amigo inseparable del `if` y el `else`: el `elif`.
 
 ```python
 def saludar_a(quien, horario):
