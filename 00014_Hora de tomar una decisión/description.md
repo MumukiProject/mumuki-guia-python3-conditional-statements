@@ -24,4 +24,4 @@ def saludar_a(quien, horario):
 >  1. saludá a `"Juli"` a las `19` 
 >  2. saludá a `"Pun Pun"` a las `20`
 >
-> ¿Sucede lo que esperabas? 
+> ¿Sucede lo que esperabas? :thinking:
