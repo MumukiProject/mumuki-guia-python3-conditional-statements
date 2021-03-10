@@ -12,5 +12,5 @@ El jurado de un torneo nos pidió que desarrollemos una función `medalla_segun_
 "nada"
 ```
 
-> Escribí, y probá en la consola, la función `medalla_segun_puesto`
+> Definí la función `medalla_segun_puesto` y probala en la consola. 
 
