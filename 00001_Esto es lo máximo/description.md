@@ -1,4 +1,4 @@
-Ninguna introducción al lenguaje Python estaría completa sin mostrar la estructura de control más famosa de la programación: ¡la alternativa condicional! Veamos un ejemplo:
+
 
 
 ```python
