@@ -1,8 +1,11 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: decision_con_moneda
-  inspection: HasBinding
+  binding: "*"
+  inspection: Declares:decision_con_moneda
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: Except:DoesTypeTest
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity3:decision_con_moneda
