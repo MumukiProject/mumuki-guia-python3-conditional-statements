@@ -39,4 +39,4 @@ Como vemos, el `elif` nos permite tomar una decisión cuando la condición anter
 >
 > ...¿hará lo mismo que la anterior? Te dejamos en la consola a `saludar_a` y `saludar_a_recargado` para que las pruebes y compares.
 > 
-> Cuando termines, escribí `ya_termine()`
+> Cuando termines, escribí `listo()`

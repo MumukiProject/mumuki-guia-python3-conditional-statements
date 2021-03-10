@@ -1,4 +1,4 @@
-def ya_termine(): 
+def listo(): 
   pass
 
 def saludar_a(quien, horario):
