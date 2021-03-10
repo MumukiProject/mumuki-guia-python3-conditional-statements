@@ -9,14 +9,4 @@ Por eso, ahora nos gustaría modificar nuestra función `saludar_a` para que tom
 "Buenas noches Feli"
 ```
 
-¿Pero cómo podríamos lograr esto? Ninguna introducción al lenguaje Python estaría completa sin mostrar la estructura de control más famosa de la programación: ¡la alternativa condicional! Veamos un ejemplo:
-
-
-```python
-# Equivalente a abs
-def valor_absoluto(numero):
-  if numero >= 0:
-    return numero
-  else:
-    return -numero
-```
+¿Pero cómo podríamos lograr esto? Ninguna introducción al lenguaje Python estaría completa sin mostrar la estructura de control más famosa de la programación: ¡la alternativa condicional!
