@@ -3,7 +3,6 @@ rules:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     error_contains: 'IndentationError:'
-  then: tenés un error de tabulación, el cual es bastante común cuando empezamos a
-    usar `if`s en Python; asegurate de que el esté tabulado hacia la izquierda dentro
-    de la definición de la función, y que cada una de las ramas también esté tabulada
-    a la izquierda respecto del `if`
+  then: parece que hay un problema con la tabulación, ¿no? Asegurate de que el esté
+    tabulado hacia la izquierda dentro de la definición de la función, y que cada
+    una de las ramas también esté tabulada a la izquierda respecto del `if`
