@@ -3,7 +3,7 @@ Bueno, ehm, no, pará, primero queremos calcular cuántos puntos de envido suma 
 * Si las dos cartas son del mismo palo, el valor del envido es la suma de sus valores de envido más 20.
 * De lo contrario, el valor del envido es el mayor valor de envido entre ellas.
 
-> Utilizando la función `valor_envido` que hiciste en el ejercicio anterior, desarrollá la función `puntos_de_envido_totales` que tome los valores y palos de dos cartas y diga cuánto envido suman en total. Ejemplo:
+> Invocando la función `valor_envido` que hiciste en el ejercicio anterior, definí la función `puntos_de_envido_totales` que tome los valores y palos de dos cartas y diga cuánto envido suman en total. Ejemplo:
 >
 > ```python
 > ム puntos_de_envido_totales(1, "espadas", 4, "espadas")
