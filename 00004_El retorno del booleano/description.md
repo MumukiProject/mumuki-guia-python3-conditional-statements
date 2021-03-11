@@ -27,4 +27,4 @@ Mucho más simple, ¿no? :wink:
 > * es menor a 100, y
 > * no es el 15.
 >
-> Escribí la función `es_numero_de_la_suerte` que dado un número diga si cumple la lógica anterior. ¡No vale usar `if`! 
+> Definí la función `es_numero_de_la_suerte` que dado un número diga si cumple la lógica anterior. ¡No vale usar `if`! 
