@@ -25,7 +25,7 @@ def saludar_a(quien, horario):
 
 Como vemos, el `elif` nos permite tomar una decisión cuando la condición anterior no se cumplió, y tal como su nombre lo sugiere, funciona como la combinación de un `if` justo después de un `else`. 
 
-> :warning: ¿Esto significa que las condiciones se evaluán **en orden**? Esta definición alternativa...
+> :warning: ¿Esto significa que las condiciones se evalúan **en orden**? Esta definición alternativa...
 > 
 > ```python
 > def saludar_a_recargado(quien, horario):
