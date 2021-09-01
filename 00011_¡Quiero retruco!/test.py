@@ -5,7 +5,7 @@
   def test_puntosDeEnvidoTotales_6_copas_11_copas_es_26(self):
     self.assertEqual(puntos_de_envido_totales(6, "copas", 11, "copas"), 26)
   
-  def test_puntosDeEnvidoTotales_8_oro_2_bastos_es_8(self):
+  def test_puntosDeEnvidoTotales_5_oro_2_bastos_es_5(self):
     self.assertEqual(puntos_de_envido_totales(5, "oro", 2, "bastos"), 5)
   
   def test_puntosDeEnvidoTotales_6_copas_7_espadas_es_7(self):
