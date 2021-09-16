@@ -10,4 +10,7 @@
   
   def test_puntosDeEnvidoTotales_6_copas_7_espadas_es_7(self):
     self.assertEqual(puntos_de_envido_totales(6, "copas", 7, "espadas"), 7)
+    
+  def test_puntosDeEnvidoTotales_1_copas_12_espadas_es_1(self):
+    self.assertEqual(puntos_de_envido_totales(1, "copas", 12, "espadas"), 1)
   
