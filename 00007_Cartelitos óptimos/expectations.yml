@@ -7,5 +7,5 @@ expectations:
   binding: escribir_cartelito_optimo
   inspection: Uses:escribir_cartelito
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: escribir_cartelito_optimo
+  binding: "*"
   inspection: Not:UsesIf
