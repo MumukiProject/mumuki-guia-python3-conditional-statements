@@ -3,9 +3,9 @@ En realidad no siempre saludamos con _buenos días_: por ejemplo, pasadas cierta
 Por eso, ahora nos gustaría modificar nuestra función `saludar_a` para que tome un parámetro adicional, `horario`, y retorne un saludo diferente según éste: 
 
 ```python
-ム saludar_a("Dani", 10)
+ムsaludar_a("Dani", 10)
 "Buenos días Dani"
-ム saludar_a("Feli", 22)
+ムsaludar_a("Feli", 22)
 "Buenas noches Feli"
 ```
 

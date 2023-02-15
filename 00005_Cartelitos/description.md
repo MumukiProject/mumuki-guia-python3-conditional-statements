@@ -9,7 +9,7 @@ Para eso, tenemos que juntar su nombre, su apellido, y su título (_dr._, _dra._
 > Definí la función `escribir_cartelito`, que tome un título, un nombre y un apellido y forme un único string. Por ejemplo:
 >
 > ```python
-> ム escribir_cartelito("Dra.", "Ana", "Pérez")
+> ムescribir_cartelito("Dra.", "Ana", "Pérez")
 > "Dra. Ana Pérez"
 > ```
 

@@ -6,8 +6,8 @@ Bueno, ehm, no, pará, primero queremos calcular cuántos puntos de envido suma 
 > Invocando la función `valor_envido` que hiciste en el ejercicio anterior, definí la función `puntos_de_envido_totales` que tome los valores y palos de dos cartas y diga cuánto envido suman en total. Ejemplo:
 >
 > ```python
-> ム puntos_de_envido_totales(1, "espadas", 4, "espadas")
+> ムpuntos_de_envido_totales(1, "espadas", 4, "espadas")
 > 25
-> ム puntos_de_envido_totales(2, "copas", 3, "bastos")
+> ムpuntos_de_envido_totales(2, "copas", 3, "bastos")
 > 3
 > ```

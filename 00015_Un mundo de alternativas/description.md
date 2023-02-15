@@ -1,7 +1,7 @@
 Ahora que ya vimos varios `if`s, volvamos a la función con la que iniciamos la lección: 
 
 ```python
-ム saludar_a("Ivi", 17)
+ムsaludar_a("Ivi", 17)
 "Buenos días Ivi"
 ```
 

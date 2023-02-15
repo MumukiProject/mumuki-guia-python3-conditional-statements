@@ -7,9 +7,9 @@ Queremos saber el valor de las [cartas de truco](https://es.wikipedia.org/wiki/T
 > Definí una función `valor_envido` que tome un número de carta y devuelva su valor de envido:
 >
 > ```python
-> ム valor_envido(12)
+> ムvalor_envido(12)
 > 0
-> ム valor_envido(3)
+> ムvalor_envido(3)
 > 3
 > ```
 >

@@ -6,9 +6,9 @@ El jurado de un torneo nos pidió que desarrollemos una función `medalla_segun_
 * otros puestos: le corresponde `"nada"`
 
 ```python
-ム medalla_segun_puesto(1)
+ムmedalla_segun_puesto(1)
 "oro"
-ム medalla_segun_puesto(5)
+ムmedalla_segun_puesto(5)
 "nada"
 ```
 

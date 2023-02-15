@@ -22,8 +22,8 @@ Además, a cada una de estas acciones también se las conoce como _ramas_ :decid
 > ¡Escribamos nuestro primer `if`! Definí una función `maximo`, que funcione como `max` (¡no vale usarla!) y devuelva el máximo entre dos números:
 > 
 > ```python
-> ム maximo(4, 5)
+> ムmaximo(4, 5)
 > 5
-> ム maximo(10, 4) 
+> ムmaximo(10, 4) 
 > 10
 > ```

@@ -10,8 +10,8 @@ Por eso ahora nos toca mejorar nuestra función de forma que reciba 4 párámetr
 > Modificá la función `escribir_cartelito`, de forma que se comporte como se describe arriba.
 >
 > ```python
-> ム escribir_cartelito("Lic.", "Tomás", "Peralta", True)
+> ムescribir_cartelito("Lic.", "Tomás", "Peralta", True)
 > "Lic. Peralta"
-> ム escribir_cartelito("Ing.", "Dana", "Velázquez", False)
+> ムescribir_cartelito("Ing.", "Dana", "Velázquez", False)
 > "Ing. Dana Velázquez"
 > ```
