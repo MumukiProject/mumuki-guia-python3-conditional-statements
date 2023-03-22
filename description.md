@@ -1,5 +1,5 @@
-Hasta ahora, todas las funciones que hicimos sabían con bastante precisión qué iban a recibir y siempre hacían exactamente lo mismo: operar dos o más strings, hacer una cuenta, evaluar una expresión booleana, y así. 
+So far, all of the functions we've written knew pretty precisely what they were going to receive and always did exactly the same thing - operate on two or more strings, do some arithmetic, evaluate a boolean expression, and so on.
 
-Pero en esta lección nos introduciremos en el mundo de lo desconocido, donde la programación cobra aún mucho más sentido. Con la herramienta que veremos podremos resolver problemas nuevos y evitar errores que hasta ahora no podíamos: según lo que recibamos, podremos hacer cuentas diferentes, transformar a nuestros strings de formas distintas, y así. 
+But in this lesson we will enter the world of the unknown, where programming makes even more sense. With the tool that we are going to learn, we will be able to solve new problems and avoid errors that until now we couldn't: depending on what we receive, we will be able to make different calculations, transform strings in different ways, and so on.
 
-¿Y cómo haremos esto? Utilizando la capacidad de la computadora para **tomar decisiones**: la _alternativa condicional_ o sentencia `if`.
+And how are we going to do that? By using the computer's ability to **make decisions**: the _conditional statement_, also known as 'if'.
