@@ -2,10 +2,10 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresFunction:escribir_cartelito_optimo
+  inspection: DeclaresFunction:write_best_badge
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: escribir_cartelito_optimo
-  inspection: Uses:escribir_cartelito
+  binding: write_best_badge
+  inspection: Uses:write_badge
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: Not:UsesIf

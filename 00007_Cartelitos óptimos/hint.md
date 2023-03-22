@@ -1,1 +1,0 @@
-Recordá que el largo de un string lo podés saber con la función `len` y  que tenés `escribir_cartelito` definida en la Biblioteca. No tenés que definirla, solo invocarla. :wink:

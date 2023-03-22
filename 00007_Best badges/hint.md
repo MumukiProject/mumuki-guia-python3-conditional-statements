@@ -1,0 +1,1 @@
+Remember that you can find out the length of a string using the `len` function. Also notice that you already have `write_badge` defined in the Library. You don't have to rewrite it - just call it. :wink:
