@@ -1,1 +1,1 @@
-Para el caso en que las cartas sean de distinto palo te va a servir el ya conocido `max`. :sunglasses:
+In order to deal with the scenario where cards are of a different suit, the well-known `max` will serve you. :sunglasses:

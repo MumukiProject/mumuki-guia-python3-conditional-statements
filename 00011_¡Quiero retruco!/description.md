@@ -1,13 +1,22 @@
-Bueno, ehm, no, pará, primero queremos calcular cuántos puntos de envido suma un jugador. Sabemos que:
+Ooops! 😰 Our opponent said _"Quiero!"_ - _I want_, in Spanish. That means our _envido_ bet has been accepted! ️:v: Now we have to take two cards and add up our total points to see who has more of them - and, of course, win the bet. 😮
 
-* Si las dos cartas son del mismo palo, el valor del envido es la suma de sus valores de envido más 20.
-* De lo contrario, el valor del envido es el mayor valor de envido entre ellas.
+That's what we know:
 
-> Invocando la función `valor_envido` que hiciste en el ejercicio anterior, definí la función `puntos_de_envido_totales` que tome los valores y palos de dos cartas y diga cuánto envido suman en total. Ejemplo:
+* If the two cards are the same suit, the total _envido_ points is the sum of their individual _envido_ values plus 20.
+* Otherwise, the total _envido_ points are only the highest _envido_ among them.
+
+For example: 
+
+1 sword and 4 swords sum 25 (1 + 4 + 20) points;
+2 cups and 3 clubs sum 3 points, because they are of different suits and 3 is the highest _envido_ value.
+
+
+
+> Using the `envido_value` function you wrote in the previous exercise, define the `total_envido_points` function that takes the ranks and suits of two cards and tells how many points they add up to. For example:
 >
 > ```python
-> ムpuntos_de_envido_totales(1, "espadas", 4, "espadas")
+> ムtotal_envido_points(1, "swords", 4, "swords")
 > 25
-> ムpuntos_de_envido_totales(2, "copas", 3, "bastos")
+> ムtotal_envido_points(2, "cups", 3, "clubs")
 > 3
 > ```
