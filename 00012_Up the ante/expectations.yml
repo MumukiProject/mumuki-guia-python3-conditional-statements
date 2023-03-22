@@ -1,7 +1,7 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: valor_canto_truco
+  binding: truco_value
   inspection: HasBinding
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
