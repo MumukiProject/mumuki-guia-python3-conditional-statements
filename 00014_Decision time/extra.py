@@ -1,5 +1,5 @@
-def greetings_to(who, hours):
-  if hours < 19:
+def greetings_to(who, hour):
+  if hour < 19:
     return "Good morning " + who
   else:
     return "Good evening " + who

@@ -1,6 +1,6 @@
 Actually, we don't always greet with a _good morning_: when night falls, for example, we say _good evening_. :night_with_stars:
 
-Therefore, we are going to modify our `greetings_to` function so that it takes an additional parameter, `time`, and returns a different _salutation_:
+Therefore, we are going to modify our `greetings_to` function so that it takes an additional parameter, `hour`, and returns a different _salutation_:
 
 ```python
 ム greetings_to("Dani", 10)
@@ -12,8 +12,8 @@ Therefore, we are going to modify our `greetings_to` function so that it takes a
 But how could we accomplish this? No introduction to the Python language would be complete without showing _the_ most iconic control structure in programming: the conditional statement!
 
 ```python
-def greetings_to(who, hours):
-  if hours < 19:
+def greetings_to(who, hour):
+  if hour < 19:
     return "Good morning " + who
   else:
     return "Good evening " + who
