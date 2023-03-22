@@ -1,5 +1,5 @@
-expectation "`valor_envido` no debe tener un retorno por cada carta posible":
-  through `valor_envido` ! (
+expectation "`envido_value` must not have a return for every possible card":
+through `envido_value` ! (
     returns with 1 ||
     returns with 2 ||
     returns with 3 ||
