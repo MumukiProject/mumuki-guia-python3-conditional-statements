@@ -2,7 +2,10 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Declares:signo
+  inspection: Declares:sign
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: signo
+  binding: sign
   inspection: UsesIf
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: sign
+  inspection: Not:Uses:abs
