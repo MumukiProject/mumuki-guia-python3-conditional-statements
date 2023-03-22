@@ -2,10 +2,10 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Declares:medalla_segun_puesto
+  inspection: Declares:medal_for
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresComputationWithArity1:medalla_segun_puesto
+  inspection: DeclaresComputationWithArity1:medal_for
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: medalla_segun_puesto
+  binding: medal_for
   inspection: UsesIf
