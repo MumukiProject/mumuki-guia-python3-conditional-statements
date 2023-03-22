@@ -1,0 +1,8 @@
+---
+rules:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    error_contains: 'IndentationError:'
+  then: "there seems to be a problem with indentation, right? Make sure that the `if`
+    is indented to the right of the `def` keyword, and that each branch is also indented
+    to the right of the `if`. Double `tab`! \U0001F92F"

@@ -5,7 +5,7 @@ expectations:
   inspection: Not:Uses:max
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresComputationWithArity2:maximo
+  inspection: DeclaresComputationWithArity2:maximum
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: UsesIf
