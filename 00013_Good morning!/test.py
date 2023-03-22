@@ -1,7 +1,7 @@
 class Test(unittest.TestCase):
 
   def test_greetings_to_gus(self):
-    self.assertEquals(saludar_a("Gus"), "Good morning Gus")
+    self.assertEquals(greetings_to("Gus"), "Good morning Gus")
     
   def test_greetings_to_may(self):
-    self.assertEquals(saludar_a("May"), "Good morning May")
+    self.assertEquals(greetings_to("May"), "Good morning May")
