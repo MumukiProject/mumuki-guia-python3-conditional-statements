@@ -7,6 +7,6 @@ type: problem
 extra_visible: false
 teacher_info: ''
 manual_evaluation: false
-progressive_expectations: true
+progressive_expectations: false
 choices: []
 name: Max Power
