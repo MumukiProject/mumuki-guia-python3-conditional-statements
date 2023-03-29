@@ -2,10 +2,10 @@ One more thing! Sometimes we want just the first and last name on our :name_badg
 
 So we need to improve our function so that it receives 4 parameters:
 
-* the first name, as before;
-* the last name, as before;
-* the job title, as before;
-* a boolean value indicating whether we want a short badge with only the first and last name, or a long badge as before.
+1. the first name, as before;
+1. the last name, as before;
+1. the job title, as before;
+1. a boolean value indicating whether we want a short badge with only the first and last name, or a long badge as before.
 
 > Alter the function `write_badge`, so that it behaves as described above.
 >
