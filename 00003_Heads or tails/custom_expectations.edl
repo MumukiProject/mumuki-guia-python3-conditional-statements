@@ -1,0 +1,7 @@
+expectation "`decide_with_coin` must have two `return` statements":
+  within `decide_with_coin` count(returns) = 2;
+  
+  
+expectation "`decide_with_coin` must use a comparison operator such as `==` or `!=`:
+  within `decide_with_coin` (UsesEqual || UsesNotEqual);
+    
