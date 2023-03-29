@@ -21,8 +21,8 @@ Much simpler, right? :wink:
 
 > For May, a number is lucky if:
 >
-> * is positive, and
-> * is less than 100, and
-> * is not 15.
+> * it is positive, **and**
+> * it is less than 100, **and**
+> * it is not 15.
 >
 > Define the function `is_lucky_number` which, given a number, returns whether it complies with the previous logic. It's no use using `if`!
