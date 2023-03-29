@@ -2,7 +2,8 @@ One more thing! Sometimes we want just the first and last name on our :name_badg
 
 So we need to improve our function so that it receives 4 parameters:
 
-* the first and last name, as before;
+* the first name, as before;
+* the last name, as before;
 * the job title;
 * a boolean value indicating whether we want a short badge with only the first and last name, or a long badge as before.
 
