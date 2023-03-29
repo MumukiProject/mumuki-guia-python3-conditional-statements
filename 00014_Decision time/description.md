@@ -21,7 +21,7 @@ def greet_to(who, hour):
 
 > :hourglass_flowing_sand: Take a few minutes to read this `if` and try to understand what is happening here. When you’re done, try doing the following in the console by calling `greet_to` :
 >
-> 1. Say hello to `"Juli"` at `18`
+> 1. Say hello to `"Umi"` at `18`
 > 2. Say hello to `"Pun Pun"` at `19`
 >
 > What happens? Is this what you expected? :thinking:
