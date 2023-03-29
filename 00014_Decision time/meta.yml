@@ -10,6 +10,6 @@ manual_evaluation: false
 progressive_expectations: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  kind: last_query_outputs
+  kind: last_query_output_like
   output: "'Good evening Pun Pun'"
 name: Decision time
