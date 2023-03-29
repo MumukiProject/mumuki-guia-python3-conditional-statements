@@ -1,6 +1,7 @@
 To sum up, now that we've seen how to write conditional statements, it's time for a friendly reminder: ⚠️ _if you use boolean expressions properly, you don't always need an `if`!_
 
 For example, we might be tempted to rewrite the `is_adult` function we defined earlier:
+
 ```python
 def is_adult(age):
   if age >= 18:
