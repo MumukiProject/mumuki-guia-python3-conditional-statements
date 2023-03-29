@@ -3,10 +3,10 @@ Let's look at another example...
 ```python
 # equivalent to abs
 def absolute_value(number):
-  if number >= 0:
-    return number
+  if number >= 0:         # 1.
+    return number         # 2.
   else:
-    return -number
+    return -number        # 3.
 ```
 
 ...and give a name to each part of the `if` conditional statement:
