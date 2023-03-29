@@ -19,7 +19,7 @@ def is_of_age(age):
 
 Much simpler, right? :wink:
 
-> Now it's your turn! For Umi, a number is lucky if:
+> Now it's your turn! :four_leaf_clover: For Umi, a number is lucky if:
 >
 > * it is positive, **and**
 > * it is less than 100, **and**
