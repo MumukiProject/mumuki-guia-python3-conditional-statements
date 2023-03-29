@@ -10,5 +10,5 @@ expectations:
   binding: "*"
   inspection: UsesIf
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: maximo
+  binding: maximum
   inspection: Not:Uses:max

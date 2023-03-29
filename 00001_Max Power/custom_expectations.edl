@@ -1,0 +1,2 @@
+expectation "`maximum` must have two `return` statements":
+  within `maximum` count(returns) = 2;
