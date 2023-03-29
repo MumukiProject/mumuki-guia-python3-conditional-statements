@@ -5,5 +5,5 @@
 
 Because of that:
 
-* when we greet Umi at 6:00 p.m., the statement `return "Good morning " + who` is executed;
-* but when we greet Pun Pun at 7:00 p.m. (:warning: 19 **is not less than** 19) the statement `"Good evening " + who` is executed.
+* when we greet Umi at 18:00, the statement `return "Good morning " + who` is executed;
+* but when we greet Pun Pun at 19:00 (:warning: 19 **is not less than** 19) the statement `"Good evening " + who` is executed.
