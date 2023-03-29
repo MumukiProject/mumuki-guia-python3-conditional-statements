@@ -9,7 +9,7 @@ def absolute_value(number):
     return -number
 ```
 
-...and give a name to each part of the it's conditional statement:
+...and give a name to each part of the `if` conditional statement:
 
  1. First, there is a _condition_, that determines which action is going to be executed. It can be any **boolean expression**, or in - in simpler terms - anything that represents a "question" that can be answered as yes (`True`) or no (`False`);
  2. then there is _an `if` action_, which will return what we want when the aforementioned condition is **true**;
