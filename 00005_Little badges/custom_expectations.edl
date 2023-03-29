@@ -1,2 +1,0 @@
-expectation "foo": 
-  calls plus with literal;
