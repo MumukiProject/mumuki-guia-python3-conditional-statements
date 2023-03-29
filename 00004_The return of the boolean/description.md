@@ -19,7 +19,7 @@ def is_of_age(age):
 
 Much simpler, right? :wink:
 
-> For May, a number is lucky if:
+> Now it's your turn" For May, a number is lucky if:
 >
 > * it is positive, **and**
 > * it is less than 100, **and**
