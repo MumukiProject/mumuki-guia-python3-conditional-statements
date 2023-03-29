@@ -25,4 +25,4 @@ Much simpler, right? :wink:
 > * it is less than 100, **and**
 > * it is not 15.
 >
-> Define the function `is_lucky_number` which, given a number, returns whether it complies with the previous logic. It's no use using `if`!
+> Define the function `is_lucky_number` which, given a number, returns whether it complies with the previous logic. Don't use an `if`!
