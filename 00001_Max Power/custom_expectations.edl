@@ -2,4 +2,4 @@ expectation "`maximum` must have two `return` statements":
   within `maximum` count(returns) = 2;
   
 expectation "`maximum` must have use a comparison operator such as `>`, `>=`, `<`":
-  within `maximum` UsesGreaterThan || UsesLowerThan || UsesLessOrEqualThan || UsesLessOrEqualThan;  
+  within `maximum` (UsesGreaterThan || UsesLowerThan || UsesLessOrEqualThan || UsesLessOrEqualThan);  
