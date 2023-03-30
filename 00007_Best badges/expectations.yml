@@ -4,14 +4,14 @@ expectations:
   binding: "*"
   inspection: DeclaresFunction:write_best_badge
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity3:write_best_badge
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: write_best_badge
   inspection: Uses:write_badge
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
-  inspection: Not:UsesIf
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: Not:Declares:write_badge
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresComputationWithArity3:write_best_badge
+  inspection: Not:UsesIf
