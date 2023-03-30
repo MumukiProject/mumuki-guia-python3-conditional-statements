@@ -1,0 +1,2 @@
+expectation "`sign` does not return string literals":
+  within `sign` ! returns with "0" && ! returns with "1" && ! returns with "-1";   
