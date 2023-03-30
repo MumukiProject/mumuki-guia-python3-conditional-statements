@@ -6,3 +6,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: DeclaresComputationWithArity1:envido_value
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: envido_value
+  inspection: UsesIf
