@@ -2,4 +2,4 @@ expectation "`write_best_badge` must **invoke** `write_badge` passing all its re
   within `write_best_badge` calls `write_badge` || ! uses `write_badge`;
 
 expectation "`write_best_badge` must **invoke** `write_badge` passing exactly 4 arguments": 
-  within `write_best_badge` ! calls `write_badge` || calls `write_badge` with (something, something, something, something);  
+  within `write_best_badge` ! calls `write_badge` || calls `write_badge` with (anything, anything, anything, anything);  
