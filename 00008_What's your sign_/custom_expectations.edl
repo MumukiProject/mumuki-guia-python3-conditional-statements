@@ -1,2 +1,2 @@
-expectation "`sign` must not return string literals":
+expectation "`sign` must not return string literals but number literals":
   within `sign` ! returns with "0" && ! returns with "1" && ! returns with "-1";   
