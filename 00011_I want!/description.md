@@ -3,7 +3,7 @@ Ooops! 😰 Our opponent said _"Quiero!"_ - _I want_, in Spanish. That means our
 That's what we know:
 
 * If the two cards are the same suit, the total _envido_ points is the sum of their individual _envido_ values plus 20.
-* Otherwise, the total _envido_ points are only the highest _envido_ among them.
+* Otherwise, the total _envido_ points are only the highest _envido_ value among them.
 
 For example: 
 
