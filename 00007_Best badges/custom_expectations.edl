@@ -1,5 +1,5 @@
 expectation "`write_best_badge` must **invoke** `write_badge` passing all its required arguments": 
   within `write_best_badge` calls `write_badge` || ! uses `write_badge`;
 
-expectation "`write_best_badge` must **invoke** `write_badge`, passing a boolean expression as its fourth argument": 
+expectation "`write_best_badge` must invoke `write_badge`, passing **a boolean expression as its fourth argument**": 
   within `write_best_badge` ! calls `write_badge` || calls `write_badge` with (anything, anything, anything, nonliteral);  
