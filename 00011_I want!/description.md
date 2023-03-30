@@ -1,4 +1,4 @@
-Ooops! 😰 Our opponent said _"Quiero!"_ - _I want_, in Spanish. That means our _envido_ bet has been accepted! ️:v: Now we have to take two cards and add up our total points to see who has more of them - and, of course, win the bet. 😮
+Ooops! 😰 Our opponent said _"Quiero!"_ - _I want_, in Spanish. That means our _envido_ bet has been accepted! ️:v: Now we have to take two cards and add up our total points to see who has more of them - and, of course, wins the bet. 😮
 
 That's what we know:
 
