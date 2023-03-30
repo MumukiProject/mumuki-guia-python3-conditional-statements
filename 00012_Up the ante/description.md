@@ -12,9 +12,9 @@ It all starts by saying _"truco"_, and in response the opponents can optionally 
 > Define the function `truco_value`, which takes the bet name and returns its value.
 >
 > ```python
-> truco_value("truco")
+> ムtruco_value("truco")
 > 2
-> truco_value("retruco")
+> ムtruco_value("retruco")
 > 3
 > ```
 >
