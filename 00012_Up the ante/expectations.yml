@@ -9,3 +9,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: DeclaresComputationWithArity1:truco_value
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: truco_value
+  inspection: UsesIf
