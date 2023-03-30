@@ -12,7 +12,7 @@ For example:
 
 
 
-> Using the `envido_value` function you wrote in the previous exercise, define the `total_envido_points` function that takes the ranks and suits of two cards and tells how many points they add up to. For example:
+> Define the `total_envido_points` function that takes the ranks and suits of two cards and tells how many points they add up to. For example:
 >
 > ```python
 > ムtotal_envido_points(1, "swords", 4, "swords")
@@ -20,3 +20,5 @@ For example:
 > ムtotal_envido_points(2, "cups", 3, "clubs")
 > 3
 > ```
+>
+> Reuse the `envido_value` function you wrote in the previous exercise.
