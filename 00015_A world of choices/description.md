@@ -8,8 +8,8 @@ Now that we've covered several `if`s, let's go back to the function we started t
 Isn't it a little late to say _good morning_? :dizzy_face: Wouldn't it be better if `greet_to` did the following?
 
  1. If it's less than 12, say _Good morning_;
- 2. **otherwise** and if it's less than 7:00 p.m., say _Good afternoon_;
- 3. **otherwise** and at last, say _Good evening_.
+ 2. **else** and **if** it's less than 7:00 p.m., say _Good afternoon_;
+ 3. **else** and at last, say _Good evening_.
  
 🎊 Yes, that's exactly what we want! Let's welcome the best friend of `if` and `else` statements: `elif`.
 
