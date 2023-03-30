@@ -2,7 +2,7 @@
 rules:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-    these_expectations_failed:
-    - "write_badge HasRedundantBooleanComparison"
+    submission_passed_with_only_these_warnings:
+    - "* Declares:write_badge"
   then: "don't forget that simplest boolean comparisons like `x == True` and `x ==
     False` can be simplified as just `x` and `not x`, respectively \U0001F60E"
