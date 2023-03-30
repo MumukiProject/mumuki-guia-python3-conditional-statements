@@ -14,10 +14,10 @@ Isn't it a little late to say _good morning_? :dizzy_face: Wouldn't it be better
 🎊 Yes, that's exactly what we want! Let's welcome the best friend of `if` and `else` statements: `elif`.
 
 ```python
-def greet_to(who, hours):
-  if hours < 12:
+def greet_to(who, hour):
+  if hour < 12:
 	  return "Good morning " + who
-  elif hours < 19:
+  elif hour < 19:
 	  return "Good afternoon " + who
   else:
 	  return "Good evening " + who
