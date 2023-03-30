@@ -7,8 +7,8 @@ That's what we know:
 
 For example: 
 
-1 sword and 4 swords sum 25 (1 + 4 + 20) points;
-2 cups and 3 clubs sum 3 points, because they are of different suits and 3 is the highest _envido_ value.
+ * 1 sword and 4 swords sum 25 (1 + 4 + 20) points;
+ * 2 cups and 3 clubs sum 3 points, because they are of different suits and 3 is the highest _envido_ value.
 
 
 
