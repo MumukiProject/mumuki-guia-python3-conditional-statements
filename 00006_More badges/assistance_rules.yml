@@ -1,7 +1,6 @@
 ---
 rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     submission_passed_with_only_these_warnings:
     - write_badge HasRedundantBooleanComparison
   then: "don't forget that simplest boolean comparisons like `x == True` and `x ==
